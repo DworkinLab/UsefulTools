@@ -45,3 +45,6 @@ FijiWings
 [A computational image analysis glossary for biologists](https://dev.biologists.org/content/139/17/3071)
 
 [A tutorial for image processing in R](https://bioconductor.org/help/course-materials/2015/BioC2015/BioC2015Oles.html#1), mostly using EMImage, including some image segmentation
+
+## 3D stuff (micro-CT)
+[minc](http://bic-mni.github.io/)
