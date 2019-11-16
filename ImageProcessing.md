@@ -17,6 +17,8 @@ This is seperate from anything to do with morphmetrics specifically (but there m
 
 [imageR](https://dahtah.github.io/imager/imager.html) - image Processing
 
+[patternize](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12853) - An R package for quantifying colour pattern variation 
+
 ### Image processing in python
 openCV (CV2)
 
